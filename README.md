@@ -18,7 +18,7 @@ This project is a lightweight automation script that uses **Selenium WebDriver**
 
 ## 🚀 Getting Started
 
-### Requirements
+### 📦 Requirements
 - Python 3.x
 - Google Chrome
 - Packages:

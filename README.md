@@ -26,7 +26,7 @@ This project is a lightweight automation script that uses **Selenium WebDriver**
   - `webdriver-manager`
  ---
 
-### Installation
+### 🛠 Installation
 ```bash
 pip install selenium webdriver-manager
 ```
@@ -51,6 +51,6 @@ The browser will open, log you in to website, and wait for you to press Enter be
 ---
 
 ## ⚠️ Disclaimer
-This script is for educational purposes only. Do not use it to automate login on other people's accounts or violate GitHub's terms of service.
+This script is for educational purposes only. Do not use it to automate login on other people's accounts or violate any website's terms of service.
 
 ---
